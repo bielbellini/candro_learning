@@ -1,0 +1,1 @@
+print("sandro vai arrumar um emprego")
